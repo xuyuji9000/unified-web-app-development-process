@@ -50,6 +50,8 @@ This section contain all parts of web app development and operations. Every part
 
 ## Approach
 
+This section answers how do we grow this project.
+
 The approach of this specification is:
 
 1. Bring up a challenge which you meet or you think will meet in the development process;
