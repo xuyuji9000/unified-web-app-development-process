@@ -77,13 +77,10 @@ TDD
 
 ##### 1.3.2 GraphQL
 
-GraphQL
+API paradigm: GraphQL
 
 ##### 1.3.3 Migrate from REST API to GraphQL
 
-
-
-API paradigm: GraphQL
 
 ### 2 Frontend development
 
