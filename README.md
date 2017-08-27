@@ -6,7 +6,7 @@ As a coordinate specification of evolving a Unified Web App Development Process.
 
 ## Architecture
 
-This section contain all parts of web app development and operations. Every part contain its own chanllenges and responding solutions.
+This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
 
 - Backend development
 
