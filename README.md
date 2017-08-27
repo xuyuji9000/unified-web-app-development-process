@@ -10,6 +10,10 @@ This section contain all parts of web app development and operations. Every part
 
 - Backend development
 
+    - Authentication
+
+        - [JWT][4]
+
     - Refactor
 
         - TDD
@@ -64,3 +68,5 @@ The approach of this specification is:
 [2]: https://docs.google.com/document/d/1s4GvR72e2LbrxMGgFPxEUPPZuzCNX6rY1h7wdqDp4wY/edit?usp=sharing
 
 [3]: https://docs.google.com/document/d/1Cg7KCYP42_cwwtvnoRV30-DNLdsgv1Ll3j2Ie5FCBZg/edit?usp=sharing
+
+[4]: https://github.com/xuyuji9000/jwt-demo
