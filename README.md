@@ -36,6 +36,12 @@ This section contain all parts of web app development and operations. Every part
         - [1.2 Refactor](#12-refactor)
     
         - [1.3 API at scale](#13-api-at-scale)
+
+            - [1.3.1 REST API](#131-rest-api)
+
+            - [1.3.2 GraphQL](#132-graphql)
+
+            - [1.3.3 Migrate from REST API to GraphQL](#133-migrate-from-rest-api-to-graphql)
     
     - [2 Frontend development](#2-frontend-development)
     
@@ -64,6 +70,18 @@ This section contain all parts of web app development and operations. Every part
 TDD
 
 #### 1.3 API at scale
+
+##### 1.3.1 REST API
+
+[Microsoft REST API Guideline][5]
+
+##### 1.3.2 GraphQL
+
+GraphQL
+
+##### 1.3.3 Migrate from REST API to GraphQL
+
+
 
 API paradigm: GraphQL
 
@@ -101,3 +119,5 @@ TDD
 [3]: https://docs.google.com/document/d/1Cg7KCYP42_cwwtvnoRV30-DNLdsgv1Ll3j2Ie5FCBZg/edit?usp=sharing
 
 [4]: https://github.com/xuyuji9000/jwt-demo
+
+[5]: https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
