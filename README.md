@@ -2,4 +2,4 @@
 
 ## Purpose 
 
-As a coordinate specification of evolve a Unified Web App Development Process.
+As a coordinate specification of evolving a Unified Web App Development Process.
