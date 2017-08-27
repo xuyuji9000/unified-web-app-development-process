@@ -8,6 +8,8 @@ As a coordinate specification of evolving a Unified Web App Development Process.
 
 This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
 
+- [Purpose](#purpose)
+
 - Backend development
 
     - Authentication
