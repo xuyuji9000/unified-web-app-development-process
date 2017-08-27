@@ -4,11 +4,28 @@
 
 As a coordinate specification of evolving a Unified Web App Development Process.
 
+## Approach
+
+This section answers how do we grow this project.
+
+The approach of this specification is:
+
+1. Bring up a challenge which you meet or you think will meet in the development process;
+
+2. Figure out a standard way to solve the problem;
+
+3. Create a demo to verify the solution;
+
+4. Add the solution to the unified development process.
+
+
 ## Architecture
 
 This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
 
 - [Purpose](#purpose)
+
+- [Approach](#Approach)
 
 - [Architecture](#Architecture)
 
@@ -33,8 +50,6 @@ This section contain all parts of web app development and operations. Every part
         - [3.2 Database migration](#32-database-migration)
     
         - [3.3 Development better feedback](#33-development-better-feedback)
-
-- [Approach](#Approach)
 
 - [Reference](#Reference)
 
@@ -75,20 +90,6 @@ TDD
 #### 3.3 Development better feedback
 
 [continuous deployment stratgy kubernetes][3]
-
-## Approach
-
-This section answers how do we grow this project.
-
-The approach of this specification is:
-
-1. Bring up a challenge which you meet or you think will meet in the development process;
-
-2. Figure out a standard way to solve the problem;
-
-3. Create a demo to verify the solution;
-
-4. Add the solution to the unified development process.
 
 
 ## Reference
