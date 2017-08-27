@@ -6,32 +6,55 @@ As a coordinate specification of evolving a Unified Web App Development Process.
 
 ## Architecture
 
-- backend development
+This section contain all parts of web app development and operations. Every part contain its own chanllenges and responding solutions.
 
-    - TDD
+- Backend development
 
-    - Design Pattern
+    - Refactor
 
-    - API paradigm: GraphQL
+        - TDD
 
-- frontend development
+    - API at scale
 
-    - TDD
+        - API paradigm: GraphQL
 
-    - React
+- Frontend development
 
-- operation and maintenance
 
-    - database 
+    - How to scale?
+
+        - React
+
+    - Refactor
+
+        - TDD
+
+- Operation and maintenance
+
+    - Database backup
         
         - [backup strategy][1]
 
+    - Database migration
+
         - [migration strategy][2]
 
-    - continuous deployment stratgy
+    - Development better feedback
+    
+        - [continuous deployment stratgy kubernetes][3]
 
-        - [kubernetes][3]
 
+## Approach
+
+The approach of this specification is:
+
+1. Bring up a challenge which you meet or you think will meet in the development process;
+
+2. Figure out a standard way to solve the problem;
+
+3. Create a demo to verify the solution;
+
+4. Add the solution to the unified development process.
 
 
 ## Reference
