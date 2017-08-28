@@ -20,7 +20,7 @@ As a coordinate specification of evolving a Unified Web App Development Process.
 
     - [Provide a demo](#provide-a-demo)
 
-- [Architecture](#Architecture)
+- [Architecture](#architecture)
 
     - [1 Backend development](#1-backend-development)
     
