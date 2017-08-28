@@ -39,7 +39,7 @@ If you find some process is missing of the whole process chain, issue it.
 
 3. Pull Requests and Issues are welcomed
 
-## Architecture
+## Menu
 
 This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
 
@@ -57,7 +57,7 @@ This section contain all parts of web app development and operations. Every part
 
     - [Provide a demo](#provide-a-demo)
 
-- [Architecture](#Architecture)
+- [Menu](#Menu)
 
     - [1 Backend development](#1-backend-development)
     
