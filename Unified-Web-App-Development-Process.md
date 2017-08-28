@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-As a coordinate specification of evolving a Unified Web App Development Process.
+Leverage contributors' learning experience to formulate a Unified Web App Development Process(UWADP) to improve understanding of software engineering in web app development.
 
 ## Menu
 
