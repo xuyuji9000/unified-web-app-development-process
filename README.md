@@ -4,6 +4,54 @@
 
 As a coordinate specification of evolving a Unified Web App Development Process.
 
+## Menu
+
+- [Purpose](#purpose)
+
+- [Menu](#menu)
+
+- [Approach](#Approach)
+
+- [How to Start](#how-to-start)
+
+    - [This document is shit](#this-document-is-shit)
+
+    - [Meet a problem](#meet-a-problem)
+
+    - [Provide a demo](#provide-a-demo)
+
+- [Architecture](#Architecture)
+
+    - [1 Backend development](#1-backend-development)
+    
+        - [1.1 Authentication](#11-authentication)
+    
+        - [1.2 Refactor](#12-refactor)
+    
+        - [1.3 API at scale](#13-api-at-scale)
+
+            - [1.3.1 REST API](#131-rest-api)
+
+            - [1.3.2 GraphQL](#132-graphql)
+
+            - [1.3.3 Migrate from REST API to GraphQL](#133-migrate-from-rest-api-to-graphql)
+    
+    - [2 Frontend development](#2-frontend-development)
+    
+        - [2.1 How to scale](#21-how-to-scale)
+    
+        - [2.2 Refactor](#22-refactor)
+    
+    - [3 Operation and maintenance](#3-operation-and-maintenance)
+    
+        - [3.1 Database backup](#31-database-backup)
+            
+        - [3.2 Database migration](#32-database-migration)
+    
+        - [3.3 Development better feedback](#33-development-better-feedback)
+
+- [Reference](#Reference)
+
 ## Approach
 
 This section answers how do we grow this project.
@@ -39,55 +87,9 @@ If you find some process is missing of the whole process chain, issue it.
 
 3. Pull Requests and Issues are welcomed
 
-## Menu
+## Architecture
 
 This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
-
-
-
-- [Purpose](#purpose)
-
-- [Approach](#Approach)
-
-- [How to Start](#how-to-start)
-
-    - [This document is shit](#this-document-is-shit)
-
-    - [Meet a problem](#meet-a-problem)
-
-    - [Provide a demo](#provide-a-demo)
-
-- [Menu](#Menu)
-
-    - [1 Backend development](#1-backend-development)
-    
-        - [1.1 Authentication](#11-authentication)
-    
-        - [1.2 Refactor](#12-refactor)
-    
-        - [1.3 API at scale](#13-api-at-scale)
-
-            - [1.3.1 REST API](#131-rest-api)
-
-            - [1.3.2 GraphQL](#132-graphql)
-
-            - [1.3.3 Migrate from REST API to GraphQL](#133-migrate-from-rest-api-to-graphql)
-    
-    - [2 Frontend development](#2-frontend-development)
-    
-        - [2.1 How to scale](#21-how-to-scale)
-    
-        - [2.2 Refactor](#22-refactor)
-    
-    - [3 Operation and maintenance](#3-operation-and-maintenance)
-    
-        - [3.1 Database backup](#31-database-backup)
-            
-        - [3.2 Database migration](#32-database-migration)
-    
-        - [3.3 Development better feedback](#33-development-better-feedback)
-
-- [Reference](#Reference)
 
 ### 1 Backend development
 
