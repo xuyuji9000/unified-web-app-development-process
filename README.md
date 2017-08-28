@@ -1,10 +1,8 @@
 This document serves as a guidance of how to get involved in the project.
 
-# Approach
+# Methodology
 
-This section answers how do we grow this project.
-
-The approach of this specification is:
+This section describes the methodology of growing the project:
 
 1. Bring up a challenge which you meet or you think will meet in the development process;
 
@@ -12,11 +10,11 @@ The approach of this specification is:
 
 3. Create a demo to verify the solution;
 
-4. Add the solution to the unified development process.
+4. Add the solution to [Unified-Web-App-Development-Process.md][1].
 
 # How to Contribute
 
-This is the easiest way to start contributing. It doesn't mean you should follow this way.
+These are some common ways to start contributing.
 
 ## This document is shit
 
@@ -25,12 +23,14 @@ If you find this document is super confusing, start a issue, complain about it l
 
 ## Meet a problem
 
-If you find some process is missing of the whole process chain, issue it. 
+If you find some process is missing of the whole process chain, issue it.
 
 ## Provide a demo
 
-1. "This problem is easy for me. I've met it." 
+1. "This problem is easy for me. I've met it."
 
 2. Then use your expertise to enlight the community with a demo
 
 3. Pull Requests and Issues are welcomed
+
+[1]: ./Unified-Web-App-Development-Process.md
