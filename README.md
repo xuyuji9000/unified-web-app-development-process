@@ -12,6 +12,7 @@ This section describes the methodology of growing the project:
 
 4. Add the solution to [Unified-Web-App-Development-Process.md][1].
 
+<!--
 # How to Contribute
 
 These are some common ways to start contributing.
@@ -32,6 +33,7 @@ If you find some process is missing of the whole process chain, issue it.
 2. Then use your expertise to enlight the community with a demo
 
 3. Pull Requests and Issues are welcomed
+-->
 
 # Procedures
 
