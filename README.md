@@ -18,11 +18,6 @@ The approach of this specification is:
 
 4. Add the solution to the unified development process.
 
-
-## Architecture
-
-This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
-
 ## How to Contribute
 
 This is the easiest way to start contributing. It doesn't mean you should follow this way.
@@ -43,6 +38,11 @@ If you find some process is missing of the whole process chain, issue it.
 2. Then use your expertise to enlight the community with a demo
 
 3. Pull Requests and Issues are welcomed
+
+## Architecture
+
+This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
+
 
 
 - [Purpose](#purpose)
