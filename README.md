@@ -1,4 +1,4 @@
-# Unitfied Web App Development Process
+# Unified Web App Development Process
 
 ## Purpose 
 
