@@ -23,9 +23,39 @@ The approach of this specification is:
 
 This section contain all parts of web app development and operations. Every part contain its own chanllenges and corresponding solutions.
 
+## How to Contribute
+
+This is the easiest way to start contributing. It doesn't mean you should follow this way.
+
+### This document is shit
+
+If you find this document is super confusing, start a issue, complain about it loud.
+
+
+### Meet a problem
+
+If you find some process is missing of the whole process chain, issue it. 
+
+### Provide a demo
+
+1. "This problem is easy for me. I've met it." 
+
+2. Then use your expertise to enlight the community with a demo
+
+3. Pull Requests and Issues are welcomed
+
+
 - [Purpose](#purpose)
 
 - [Approach](#Approach)
+
+- [How to Start](#how-to-start)
+
+    - [This document is shit](#this-document-is-shit)
+
+    - [Meet a problem](#meet-a-problem)
+
+    - [Provide a demo](#provide-a-demo)
 
 - [Architecture](#Architecture)
 
