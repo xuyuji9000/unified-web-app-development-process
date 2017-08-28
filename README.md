@@ -33,4 +33,13 @@ If you find some process is missing of the whole process chain, issue it.
 
 3. Pull Requests and Issues are welcomed
 
+# Procedures
+
+## Procedure of Adding a New Challenge
+
+![UWADP-Add-New-Challenge-Procedure][2]
+
+
 [1]: ./Unified-Web-App-Development-Process.md
+
+[2]: ./assets/UWADP-Add-New-Challenge-Procedure.png
