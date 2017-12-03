@@ -1,3 +1,5 @@
+This project has been migrated to [hust-sh/unified-web-app-development-process][3].
+
 This document serves as a guidance of how to get involved in the project.
 
 # Methodology
@@ -45,3 +47,5 @@ If you find some process is missing of the whole process chain, issue it.
 [1]: ./Unified-Web-App-Development-Process.md
 
 [2]: ./assets/UWADP-Add-New-Challenge-Procedure.png
+
+[3]: https://github.com/hust-sh/unified-web-app-development-process
