@@ -1,4 +1,4 @@
-This project has been migrated to [hust-sh/unified-web-app-development-process][3].
+**This project has been migrated to [hust-sh/unified-web-app-development-process][3].**
 
 This document serves as a guidance of how to get involved in the project.
 
